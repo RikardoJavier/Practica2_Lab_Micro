@@ -1,0 +1,401 @@
+
+ //63
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+  //62
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+
+  //61
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//60
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//59
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//58
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+ //57
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//56
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//55
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//54
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//53
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//52
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+ //51
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//50
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//49
+    digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//48
+    digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,true);
+   delay(250);
+//47 
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//46
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//45
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//44
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//43
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//42
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//41
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//40
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//39
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//38
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//37
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//36
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//35
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//34
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//33
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//32
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,true);
+   delay(250);
+//31
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,false);
+   delay(250);
+//30
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//29
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//28
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//27
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//26
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//25
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//24
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//23
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//22
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//21
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//20
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//19
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//18
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//17
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//16
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,false);
+   digitalWrite(LED2,false);
+   digitalWrite(LED3,false);
+   digitalWrite(LED4,true);
+   digitalWrite(LED5,false);
+   delay(250);
+//15
+   digitalWrite(LED0,true);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,false);
+   delay(250);
+//14 
+   digitalWrite(LED0,false);
+   digitalWrite(LED1,true);
+   digitalWrite(LED2,true);
+   digitalWrite(LED3,true);
+   digitalWrite(LED4,false);
+   digitalWrite(LED5,false);
+   delay(250);
